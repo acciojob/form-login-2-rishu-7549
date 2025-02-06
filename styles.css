@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+input[type="submit"]{
+	margin:5px;
+	padding:5px;
+	width:10%;
+}
+
+
+
+
+
+
+
